@@ -1,0 +1,12 @@
+
+.openchat{
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    transition: .5s;
+  }
