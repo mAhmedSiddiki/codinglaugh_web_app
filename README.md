@@ -24,3 +24,7 @@
 ![01](https://user-images.githubusercontent.com/36816925/153540529-e1e7c79e-d182-44af-bd66-d722aafc541a.PNG)
 
 ![07](https://user-images.githubusercontent.com/36816925/153540533-57f4fabe-f40e-42ac-b0c8-a60808909a0f.PNG)
+
+
+**Connect:** [Linkedin](https://www.linkedin.com/in/mahmedsiddiki) [Youtube](https://www.youtube.com/channel/UCtPoYxNA8UtdQg4aCNkS7Dg)
+Mail: mahmedsiddiki@yahoo.com
